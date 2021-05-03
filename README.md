@@ -7,7 +7,7 @@ My current experience includes (expanding hopefully~):
   - Full-stack application development (HTML, CSS, Javascript, Jquery, C#, SQL) 
   - Designed databases, stored procedures, functions, views, and queries (SQL) 
   - Multiprocessing and concurrency (Python: aiohttp, aysncio) 
-  - RESTful API (GET, PUT, POST, DELETE) 
+  - RESTful API and AJAX calls
   - Handling data formating, cleansing, and conversion to different formats
   - Data Wrangling
 
