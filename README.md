@@ -11,3 +11,7 @@ My current experience includes (expanding hopefully~):
   - Handling data formating, cleansing, and conversion to different formats
   - Data Wrangling
 
+Currently Learning:
+- COBOL (IBM Developer) 
+- Mobile Application Development (Android Studio - Java) 
+- Improving skill level on other languages currently experienced in 
