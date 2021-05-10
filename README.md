@@ -15,4 +15,4 @@ Currently Learning:
 - COBOL (IBM Developer) 
 - Mobile Application Development (Android Studio - Java) 
 - Improving skill level on other languages currently experienced in 
-- COBOL19 Vaccine Timelines 
+- COVID19 Vaccine Timelines 
