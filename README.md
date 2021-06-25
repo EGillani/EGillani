@@ -12,7 +12,5 @@ My current experience includes (expanding hopefully~):
   - RESTful API and AJAX calls
   - Handling data formating, cleansing, and conversion to different formats
   - Data Wrangling
-
-Currently Learning:
-- COBOL (IBM Developer) 
-- Mobile Application Development (Android Studio - Java) 
+  - COBOL (IBM Developer) 
+  - Mobile Application Development (Android Studio - Java) 
