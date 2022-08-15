@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I changed careers from my multidisplinary field in Environmental Science and looks like it paid off**
 
-- 🌱 I’m currently learning **Too many technologies at once (the joys of jack of all trades)**
+- 🌱 I’m currently learning **too many technologies at once** (the joys of jack of all trades)
 
 - 💬 Ask me about **my experience**
 
