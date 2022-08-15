@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, Welcome to my Github</h1>
 <h3 align="center">Full-Stack Developer/Data Engineer at RBC</h3>
 
-- 🔭 I’m currently working on **Self-Serve Analytics Platform using Snowflake**
+- 🔭 I’m currently working on **Developing my personal website** (going through design paralysis 😩)
 
 - ⚡ Fun fact **I changed careers from my multidisplinary field in Environmental Science and looks like it paid off**
 
