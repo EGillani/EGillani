@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **developing my personal website** (going design paralysis 😩)
 
-- ⚡ Fun fact **I changed careers from my multidisplinary field in Environmental Science and looks like it paid off**
+- ⚡ Fun fact **I changed careers** from my multidisciplinary field in Environmental Science and looks like it paid off since software development requires multidisciplinary skills
 
 - 🌱 I’m currently learning **too many technologies at once** (the joys of jack of all trades)
 
