@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I changed careers** from my multidisciplinary field in Environmental Science and looks like it paid off since software development requires multidisciplinary skills
 
-- 🌱 I’m currently learning **too many technologies at once** (the joys of jack of all trades)
+- 🌱 I’m currently learning **too many technologies at once** (the joys of being jack of all trades)
 
 - 💬 Ask me about **my experience**
 
