@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, Welcome to my Github</h1>
 <h3 align="center">Full-Stack Developer/Data Engineer at RBC</h3>
 
-- 🔭 I’m currently working on (<a href="https://egillani.com" target="blank">**my personal website**</a>)
+- 🔭 I’m currently working on <a href="https://egillani.com" target="_blank">**my personal website**</a>
 
 - ⚡ Fun fact **I changed careers** from my multidisciplinary field in Environmental Science and looks like it paid off since software development requires multidisciplinary skills
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/erajg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erajg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/erajg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erajg" height="30" width="40" /></a>
 </p>
 
 
