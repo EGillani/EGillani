@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, Welcome to my Github</h1>
-<h3 align="center">Full-Stack Developer/Data Engineer at RBC</h3>
+<h3 align="center">Data Engineer at RBC</h3>
 
 - 🔭 I’m currently working on <a href="https://egillani.com" target="_blank">**my personal website**</a>
 
