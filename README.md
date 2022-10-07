@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://egillani.com" target="_blank">**my personal website**</a>
 
-- ⚡ Fun fact **I changed careers** from my multidisciplinary field in Environmental Science and looks like it paid off since software development requires multidisciplinary skills and the developer to be eager to learn new things!
+- ⚡ Fun fact **I changed careers** from my multidisciplinary field (Environmental Science) and looks like it paid off since software development requires multidisciplinary skills and need to be willing to learn new things!
 
 - 🌱 I’m currently learning **too many technologies at once** (the joys of being jack of all trades)
 
