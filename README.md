@@ -1,7 +1,9 @@
 <h1 align="center">Hello 👋, Welcome to my Github</h1>
 <h3 align="center">Data Engineer at RBC</h3>
+<a href="https://egillani.com" target="_blank">**my personal website**</a>
 
-- 🔭 I’m currently working on <a href="https://egillani.com" target="_blank">**my personal website**</a>
+- 🔭 I’m currently working and studying full-time for my last semester. I am somehow still alive (dead inside though). 
+
 
 - ⚡ Fun fact **I changed careers** from my multidisciplinary field (Environmental Science) and looks like it paid off since software development requires multidisciplinary skills and need to be willing to learn new things!
 
