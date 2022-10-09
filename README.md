@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, Welcome to my Github</h1>
 <h3 align="center">Data Engineer at RBC</h3>
-<a href="https://egillani.com" target="_blank">**my personal website**</a>
+<a href="https://egillani.com" target="_blank">my personal website</a>
 
 - 🔭 I’m currently working and studying full-time for my last semester. I am somehow still alive (dead inside though). 
 
