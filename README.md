@@ -1,13 +1,9 @@
 <h1 align="center">Hello 👋, Welcome to my Github</h1>
-<h3 align="center">Data Engineer at RBC</h3>
+<h3 align="center">Data Engineer</h3>
 <a href="https://egillani.com" target="_blank">my personal website</a>
-
-- 🔭 I’m working as a Data Engineer at RBC. 
 
 
 - ⚡ Fun fact **I changed careers** from my multidisciplinary field (Environmental Science) and looks like it paid off since software development requires multidisciplinary skills and need to be willing to learn new things!
-
-- 🌱 I’m currently learning **too many technologies at once** (the joys of being jack of all trades)
 
 - 💬 Ask me about **my experience**
 
